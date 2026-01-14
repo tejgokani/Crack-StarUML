@@ -31,12 +31,12 @@ Select the installer according to your operating system.
 ---
 
 ### Step 2: Install StarUML
-Run the installer and complete the setup process.
+Run the installer and complete the setup process. 
 
 ---
 
 ### Step 3: Application Files Location
-After installation, the application resources are located at:
+After installation, the application resources are located at: https://drive.google.com/drive/folders/1Q0yYSNTimgcrn7Wdv0lL_PYTqBqUxzd2
 
 #### Windows
 C:\Program Files\StarUML\resources
