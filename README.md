@@ -63,20 +63,5 @@ Open the StarUML application from your system menu or applications folder.
 
 ---
 
-## License Information
-StarUML is licensed software.
-- Trial version available
-- Student and commercial licenses can be purchased from the official website
-
-https://staruml.io/buy
-
----
-
-## Notes
-- Ensure you comply with licensing terms.
-- Suitable for academic and professional use.
-
----
-
 ## Disclaimer
 This README is for educational and informational purposes only and does not encourage modification or bypassing of licensed software.
